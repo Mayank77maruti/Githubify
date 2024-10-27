@@ -33,4 +33,3 @@ Feel free to explore the Eraser workspace [Here 👨‍💻](https://app.eraser.
 ![MultiUser Real-Time Chat](./public/IMG-20240128-WA0002.jpg)
 
 
-## Thank You!! Team ETHEREUM BOTS 🤖
